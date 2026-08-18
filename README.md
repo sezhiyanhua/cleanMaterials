@@ -36,6 +36,7 @@ The operation can be undone with **Ctrl+Z**. If no unused materials are found, t
 
 SZ
 
+- [GitHub](https://github.com/sezhiyanhua)
 - [Bilibili](https://space.bilibili.com/12379590)
 
 ## License
